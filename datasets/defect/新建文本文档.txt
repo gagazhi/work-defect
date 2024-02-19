@@ -1,0 +1,2 @@
+"sunken", "normal", "differentInk", "bubble", "incomplete", "grindUnclean", "scratch", "waterStain", "blackhole"
+python train.py --weights weights/yolov7_training.pt --cfg cfg/training/yolov7-defect.yaml --data data/coco-defect.yaml --device 0 --batch-size 8 --epoch 300

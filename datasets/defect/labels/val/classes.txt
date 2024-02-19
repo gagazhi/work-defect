@@ -1,0 +1,7 @@
+normal
+sunken
+differentInk
+scratch
+bubble
+incomplete
+grindUnclean

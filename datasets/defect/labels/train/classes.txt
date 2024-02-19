@@ -1,0 +1,9 @@
+sunken
+normal
+differentInk
+bubble
+incomplete
+grindUnclean
+scratch
+waterStain
+blackhole
